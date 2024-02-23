@@ -1,1 +1,3 @@
-### Full Stack MERN AI Image Generation App
+# AI Image Generation App
+
+Built using the MERN stack.
