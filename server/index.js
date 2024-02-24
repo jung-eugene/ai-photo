@@ -21,7 +21,7 @@ app.get('/', async (req, res) => {
     res.send('Hello World!');
 })
 
-const startServer = () => {
+const startServer = async () => {
 
     // connect to mongodb
     try {
